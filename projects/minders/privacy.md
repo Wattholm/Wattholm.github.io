@@ -2,7 +2,7 @@
 
 # Privacy Policy - May 1, 2020
 
-##
+
 
 ## Collection of Information
 
