@@ -21,11 +21,13 @@ For more information on Google's policies in relation to the use of its services
 [- Google AdSense & AdMob Terms of Service](https://www.google.com/adsense/new/localized-terms)
 
 
+
 ### Use of Information
 
 Information collected by Google AdMob and Google Analytics may be used to provide the user with personalized ads.
 
 Information provided by Google Analytics may be used to analyze usage trends for the app in an aggregate, anonymized manner to provide a better user experience and to improve the functionality of the app.
+
 
 
 ### Consent and Notice of Changes
