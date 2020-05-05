@@ -5,4 +5,4 @@ Here you'll find information about my latest projects, and any relevant document
 
 ### Support or Contact
 
-For any inquiries or comments, you can email me at wattholm@outlook.com
+For any inquiries or comments, send me an [email](mailto:wattholm@outlook.com)
