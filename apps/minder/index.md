@@ -1,5 +1,5 @@
 # Minder
-## Official Support Page
+### To Do List Organizer
 
 &nbsp;
 &nbsp;
