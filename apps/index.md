@@ -1,6 +1,6 @@
 # Apps
 
-### [Minders - Privacy Policy](http://wattholm.github.io/projects/minders/privacy)
+### [Minder - Privacy Policy](http://wattholm.github.io/apps/minder/privacy)
 
 ### [Tax Collector - Interactive Mathematics Game](https://thetaxcollector.herokuapp.com)
 
