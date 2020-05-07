@@ -10,15 +10,15 @@ Minder does not explicitly request personal data. However, because the app makes
 
 For more information on Google's policies in relation to the use of its services, visit these web pages:
 
-    [- Google Privacy Policy](https://policies.google.com/privacy)
+[- Google Privacy Policy](https://policies.google.com/privacy)
 
-    [- Google Analytics Policies](https://support.google.com/analytics/answer/4597324)
+[- Google Analytics Policies](https://support.google.com/analytics/answer/4597324)
 
-    [- Google's Privacy & Terms](https://www.google.com/policies/privacy/partners/)
+[- Google's Privacy & Terms](https://www.google.com/policies/privacy/partners/)
 
-    [- Google's Privacy & Terms - Advertising](https://policies.google.com/technologies/ads)
+[- Google's Privacy & Terms - Advertising](https://policies.google.com/technologies/ads)
 
-    [- Google AdSense & AdMob Terms of Service](https://www.google.com/adsense/new/localized-terms)
+[- Google AdSense & AdMob Terms of Service](https://www.google.com/adsense/new/localized-terms)
 
 &nbsp;
 
