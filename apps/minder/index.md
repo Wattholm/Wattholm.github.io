@@ -1,4 +1,4 @@
-# MINDER
+# Minder
 ## Official Support Page
 
 &nbsp;
