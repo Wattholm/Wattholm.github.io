@@ -1,5 +1,7 @@
 # Apps
 
+### [Sunflowerland Pal](http://wattholm.github.io/apps/sfpal)
+
 ### [Minder](http://wattholm.github.io/apps/minder)
 
 ### [Tax Collector - Interactive Mathematics Game](https://thetaxcollector.herokuapp.com)
